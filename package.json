@@ -9,7 +9,9 @@
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-key-index": "^0.1.1",
     "react-scripts": "5.0.1",
+    "shortid": "^2.2.16",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
